@@ -1,1 +1,42 @@
 # Triexan Horde
+The Triexan Horde is a smaller faction in the galaxy. A coalition of planets located in Uncharted Space, their resources don't include a lot of metal. As such, they have developed their bio-engineering to much greater lengths than the rest of the galaxy. They utilized engineered beasts, some of which have cybernetics installed in them. 
+
+## Troopers
+
+### Tick Tick Booms
+Unit Cost: 36
+Unit Size: 6
+HP: 1
+Defense: White
+Loyalty: -
+Surge Atk: -
+Surge Def: block
+Speed: 2
+
+Keywords:
+Aggressive Charge: If there is an enemy target within line of sight, this unit must spend its first action to move towards the closest enemy unit.
+
+Chain Reaction: Whenever one or more models are removed from this unit, roll a white defense die. On a block, add one more wound onto this unit.
+
+Weapons:
+Left: bb, melee, pierce 2
+right: rr, range 1, blast, impact 2, Self Destruct 
+
+Upgrades:
+
+Support: 1
+Personal: 2
+
+Support Upgrades:
+
+Shieldwing Beetle:
+Wounds: 3
+cost: 40
+Weapon: rbb, melee, impact 3
+This model can only use its melee weapon
+
+The unit the Shieldcrest Beetle is attached to gains plodding, and cover 2.
+
+
+
+
